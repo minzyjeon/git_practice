@@ -1,1 +1,1 @@
-Hello hit and HitHub
+Hello git and GitHub
